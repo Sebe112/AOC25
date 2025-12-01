@@ -1,5 +1,4 @@
 import re
-import time
 
 count = 0
 dial = 50
@@ -21,7 +20,6 @@ with open("Data.txt", "r") as file:
                 if dial == 100:
                     count += 1
                     dial = 0
-
 
 print(count)
         
