@@ -21,5 +21,3 @@ with open("Data.txt", "r") as file:
             count += 1
 
 print(count)
-        
-
