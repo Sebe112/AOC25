@@ -22,5 +22,3 @@ with open("Data.txt", "r") as file:
                     dial = 0
 
 print(count)
-        
-
